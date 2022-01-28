@@ -1,4 +1,4 @@
-# 杜梦如的个人主页 <!-- omit in toc -->
+# 杜梦如 <!-- omit in toc -->
 
 <a href="https://jekyll-themes.com">
   <img src="https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg" height="20" alt="Jekyll Themes Shield" >
